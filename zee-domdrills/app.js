@@ -4,3 +4,11 @@
 that image should be displayed in the full-size image container at the top. 
 Updating the image should also update its alt attribute. To test keyboard interactivity, 
 you can Tab to one of the thumbnails and press the Enter key.*/
+
+//$(function() {
+//    $
+//}
+
+$('.thumbnail').on('click', e => {
+  console.log(e.target);
+});
