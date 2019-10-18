@@ -1,0 +1,16 @@
+form div {
+	height: 30px;
+	padding: 4px;
+}
+
+.form-row1 {
+	background-color: lightblue;
+}
+
+.form-row2 {
+	background-color:lightgoldenrodyellow;
+}
+
+label {
+	margin: 0 5px;
+}

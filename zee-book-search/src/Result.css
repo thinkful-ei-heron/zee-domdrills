@@ -1,0 +1,37 @@
+li {
+	list-style: none;
+	display: flex;
+	margin: 5px 10px;
+}
+
+.thumbnail, .titleBlock {
+	display: inline-block;
+	justify-content: top;
+}
+.titleBlock {
+	min-height: 200px;
+	margin: 0 auto;
+}
+
+img {
+	height: 100%;
+}
+
+h3 {
+	margin: 0;
+	padding: 0;
+}
+
+h4 {
+	margin: 0;
+	padding: 0;
+}
+
+.authorLine {
+	margin: 8px 0 0;
+}
+
+.resultList {
+	max-width: 728px;
+	margin: 0 auto;
+  }
